@@ -1,2 +1,2 @@
 # SECITEC
- Arquivos feitos nas aulas do curso
+ Arquivos feitos nas aulas do curso.
