@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://th.bing.com/th/id/R.1b56ac823b007a5a8d72da99ff4ee008?rik=8nqVbWw9xszQyw&pid=ImgRaw&r=0');
+    background-color: #000;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    color: #000;
+    text-align: center;
+    font-size: 21px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
